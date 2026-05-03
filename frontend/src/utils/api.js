@@ -1,5 +1,5 @@
 // Utilities for making API calls to the Flask backend
-const BASE_URL = 'http://localhost:5001';
+const BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:5001';
 
 // Helper to fetch with timeout
 async function fetchWithTimeout(resource, options = {}) {
