@@ -1,0 +1,8 @@
+flask
+flask-cors
+lyricsgenius
+deep-translator
+google-generativeai
+requests
+python-dotenv
+langdetect
