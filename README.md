@@ -2,6 +2,8 @@
 
 *Bridge the gap between languages and emotions in music.*
 
+**[Live Demo 🌐](https://audiotranslator.netlify.app)**
+
 Have you ever listened to a song in a foreign language and felt the emotion, but wished you could understand the deeper meaning? **Audio Translator** is a web application designed to do just that. It's not just a translator; it's your cultural guide to global music.
 
 By fetching lyrics, detecting the language, and providing line-by-line translations alongside AI-powered cultural context, Audio Translator helps you truly feel and understand the world's music.
